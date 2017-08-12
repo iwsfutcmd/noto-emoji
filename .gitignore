@@ -1,0 +1,4 @@
+*.pyc
+build/
+NotoColorEmoji.*ttf
+waveflag
